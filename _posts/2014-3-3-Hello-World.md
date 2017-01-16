@@ -8,11 +8,9 @@ title: Review of Bose QC 25, my new headphones !!!
 
 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
+It is one of the comfortable Headphones in the market. This is my fourth over the ear headphones in past four years.
 
+I have owned Beats, philips, and Sony in past. It is one the most comfortable headphones that I have ever owned.
 
-
-
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Battery back up is amazing and so is the sound. It is not effective when listening high bass sound. 
