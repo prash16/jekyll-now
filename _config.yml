@@ -6,7 +6,7 @@
 name: Your Name
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Music Lover
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/11829332?v=3&u=7ca4106f7dc253740deae5a9de5d75cd7a01987a&s=400
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: prash16
   instagram:
-  linkedin:
+  linkedin: prashmedirattaa
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
