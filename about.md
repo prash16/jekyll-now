@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+
+I'm a full time student at The University of British columbia, pursuing my Master of Data science.  I also work at BC children hospital as Statistical Analyst.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I live my life  :)
 
 ### Contact me
 
