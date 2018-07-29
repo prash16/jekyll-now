@@ -13,4 +13,4 @@ I live my life  :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[prash16@gmail.com](mailto:email@domain.com)
